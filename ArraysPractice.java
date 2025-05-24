@@ -1,4 +1,6 @@
-public class Arrays {
+import java.util.Arrays;
+
+public class ArraysPractice {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};
 
@@ -15,10 +17,10 @@ public class Arrays {
 
         System.out.println(sizeGreeting);
 
-        System.out.println(add(sizeGreeting, 4));
-    }
+        System.out.println(MathUtils.add(sizeGreeting, 4));
 
-    public static int add(int a, int b) {
-        return a + b;
+        for (int i = 0; i < sizeGreeting; i++){
+            System.out.print(greeting.charAt(i));
+        }
     }
 }
