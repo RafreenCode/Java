@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CHALLENGES/CHALLENGES.iml" filepath="$PROJECT_DIR$/CHALLENGES/CHALLENGES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOVETHEBOX/MOVETHEBOX.iml" filepath="$PROJECT_DIR$/MOVETHEBOX/MOVETHEBOX.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PRACTICE.iml" filepath="$PROJECT_DIR$/.idea/PRACTICE.iml" />
     </modules>
   </component>
